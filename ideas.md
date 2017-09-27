@@ -1,6 +1,9 @@
 # Big Data ideas and lists
 
-1. [Big Data idea repo](https://github.com/onurakpolat/awesome-bigdata)
+1.
+* [Big Data idea repo](https://github.com/onurakpolat/awesome-bigdata)
+
+* [Big data datasets](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 
 2. Test Text By Jayant
 
