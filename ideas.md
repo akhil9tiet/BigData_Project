@@ -1,12 +1,14 @@
 # Big Data ideas and lists
 
-1.
+1. Akhil
 * [Big Data idea repo](https://github.com/onurakpolat/awesome-bigdata)
 
 * [Big data datasets](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 
-2. Test Text By Jayant
+* [Crytopcurrency ideas](https://www.producthunt.com/posts/game-of-coins)
 
-3. Test Text 2 By Jayant
+2. Rini
 
-4. Test by Akhil
+3. Jayant
+
+4. Yashwant
