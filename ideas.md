@@ -11,6 +11,6 @@
 2. Rini
 
 3. Jayant
-* [The Stanford Question Answering Dataset] (https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/)
+* [The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/)
 
 4. Yashwant
