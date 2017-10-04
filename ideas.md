@@ -13,4 +13,6 @@
 3. Jayant
 * [The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/)
 
+* [Amazon Bin Image Dataset](https://aws.amazon.com/public-datasets/amazon-bin-images/)
+
 4. Yashwant
