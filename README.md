@@ -7,7 +7,7 @@ Setup guide:
 2. ```git clone https://github.com/akhil9tiet/BigData_Project.git ```
 3. Create a new branch and name it same as the collaborator
   * to create a new branch on github (Click on branch name and then create a new branch)
-  * on gitbash ```git checkout <branchname>```
+  * on gitbash ```git checkout -b <branchname>```
 4. Add/edit/delete files in your branch.
 5. ``` git add <<<filename>>>```
 6. ``` git commit -m "{{Logical commit related to one idea only}}``` PLEASE DO NOT POLLUTE THE COMMIT HISTORY. THE COMMIT MESSAGE SHOULD BE LOGICAL AND SHORT. IT SHOULD BE SIMPLE ENOUGH FOR EVERYONE TO UNDERSTAND.
