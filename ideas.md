@@ -13,6 +13,8 @@
 
 * [Datasets repo from Reddit](https://www.reddit.com/r/datasets/comments/58og49/request_looking_for_big_data_sets_of_size_over/)
 
+* [Datasets from California](https://data.ca.gov/)
+
 
 2. Rini
 
