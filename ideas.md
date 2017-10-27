@@ -15,6 +15,8 @@
 
 * [Datasets from California](https://data.ca.gov/)
 
+* [ML Project ideas](https://ml-showcase.com/?ref=producthunt)
+
 
 2. Rini
 
