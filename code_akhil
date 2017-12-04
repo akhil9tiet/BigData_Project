@@ -1,0 +1,24 @@
+%pyspark
+from pyspark.sql.functions import *
+from pyspark.sql.functions import to_timestamp
+from pyspark.sql.types import DateType
+
+bikedata=spark.read.csv("s3://bikesharebigdata/2017-Q1-Trips-History-Data.csv",header=True, timestampFormat="%m/%d/%Y %H:%M", inferSchema= "True")
+#bikedata
+#bikedata.printSchema()
+#bikedata.columns
+#df = bikedata.selectExpr("Duration as Duration", "Start date as StartDate", "End date as EndDate", "Start station as StartStation", "End station as EndStation", "Bike number as BikeNumber", "Member Type as  "MemberType")
+df = bikedata.select(col("Duration").alias("Duration"),
+                     col("Start date").alias("StartDate"),
+                     col("End date").alias("EndDate"),
+                     col("Start station").alias("StartStation"),
+                     col("End station").alias("EndStation"),
+                     col("Bike number").alias("BikeNumber"),
+                     col("Member type").alias("MemberType"))
+
+
+# convert StartDate as DateTime
+
+df.printSchema()
+
+df.show()
